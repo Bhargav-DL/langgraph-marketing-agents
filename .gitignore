@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+.env
+*.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+
+# Model files (if you cache locally)
+*.bin
+*.safetensors
+*.pt
