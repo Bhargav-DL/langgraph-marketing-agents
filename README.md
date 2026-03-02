@@ -16,5 +16,5 @@ This project implements a multi-agent content generation system for marketing us
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/marketing-agent-crew.git
+   git clone https://github.com/Bhargav-DL/langgraph-marketing-agents
    cd marketing-agent-crew
